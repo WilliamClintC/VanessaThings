@@ -7,3 +7,8 @@ Cross-Firm Information Flows and the Predictability of Stock Returns
 Anna Scherbina
 Brandeis University
 Bernd Schlusche
+
+https://westernfinance-portal.org/viewpaper?n=876484
+
+News Diffusion in Social Networks and Stock Market Reactions
+David Hirshleifer Lin Peng Qiguang Wang 
