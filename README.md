@@ -12,3 +12,9 @@ https://westernfinance-portal.org/viewpaper?n=876484
 
 News Diffusion in Social Networks and Stock Market Reactions
 David Hirshleifer Lin Peng Qiguang Wang 
+
+https://westernfinance-portal.org/viewpaper?n=890624
+
+Currency Network Risk*
+Mykola Babiak** Jozef Baruník***
+Lancaster University Management School Charles University
